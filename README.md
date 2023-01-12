@@ -1,6 +1,14 @@
 # AU-Eth-Bootcamp
-Project Details:
-This project begins with a client that is allowed to transfer any funds from any account to another account. That's not very secure. By applying digital signatures we can require that only the user with the appropriate private key can create a signature that will allow them to move funds from one account to the other. Then, the server can verify the signature to move funds from one account to another.
+<img src="./img/alchemy-university.png">
 
-Incorporate Public Key Cryptography so transfers can only be completed with a valid signature
-The person sending the transaction should have to verify that they own the private key corresponding to the address that is sending funds
+# Alchemy University Ethereum Bootcamp Solutions
+
+This repository contains the code/solution of all challenges of Alchemy University Ethereum Bootcamp. The solutions are structures according the weeks, topics, and challenges as per the bootcamp.
+
+If you found any issue in the solutions, feel free to raise it.
+
+**NOTE: Seeing the solutions will not help you to develop logic you should only utilize them when you give up!**
+
+### If you like my solutions make sure to give a ⭐️ on this repository.
+
+
