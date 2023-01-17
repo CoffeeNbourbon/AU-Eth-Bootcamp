@@ -6,8 +6,8 @@ error Token__NotEnoughFunds();
 contract Token {
     uint public totalSupply;
     uint8 public decimals = 18;
-    string public name = "Rupee";
-    string public symbol = "PKR";
+    string public name = "Bourbon";
+    string public symbol = "BBN";
 
     mapping(address => uint256) private _balances;
 
